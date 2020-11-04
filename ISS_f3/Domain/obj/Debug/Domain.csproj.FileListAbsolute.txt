@@ -1,0 +1,16 @@
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\Domain\bin\Debug\Domain.exe.config
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\Domain\bin\Debug\Domain.exe
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\Domain\bin\Debug\Domain.pdb
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\Domain\obj\Debug\Domain.Properties.Resources.resources
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\Domain\obj\Debug\Domain.csproj.GenerateResource.cache
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\Domain\obj\Debug\Domain.exe
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\Domain\obj\Debug\Domain.pdb
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\ISS_f3\Domain\bin\Debug\Domain.exe.config
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\ISS_f3\Domain\bin\Debug\Domain.exe
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\ISS_f3\Domain\bin\Debug\Domain.pdb
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\ISS_f3\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\ISS_f3\Domain\obj\Debug\Domain.Properties.Resources.resources
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\ISS_f3\Domain\obj\Debug\Domain.csproj.GenerateResource.cache
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\ISS_f3\Domain\obj\Debug\Domain.exe
+C:\Users\Anisoara Bacrau\Desktop\an2\ISS\ISS_f3\ISS_f3\Domain\obj\Debug\Domain.pdb
